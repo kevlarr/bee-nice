@@ -1,0 +1,19 @@
+html {
+    font-size: 24px;
+    height: 100%;
+}
+
+body {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    margin: 0;
+    padding: 10px;
+}
+
+.small {
+    font-size: .75rem;
+}
