@@ -1,5 +1,7 @@
 # Bee-nice
 
+Example code for the blog post, ["Create a Rust web service, from zero to cloud"](https://engineering.deptagency.com/create-a-rust-web-service-from-zero-to-cloud)
+
 A simple Rust project demonstrating:
 
 - Setting up a simple [Actix Web](https://actix.rs) server
